@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* container 1 */
+
+.container1{
+    background-color: #EDDFB3;
+}
+.navbar-brand h1{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navigation{
+    padding: 0 5%;
+}
+.container1 .container{
+    padding: 3% 5%;
+}
+.intro{
+    padding: 2% 0;
+}
+
+/* container 2 */
+
+.container2 {
+    background-color: #ffffff;
+}
+h1{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.container2-content{
+    padding: 5% 5%;
+}
+
+/* container 3 */
+.container3{
+    background-color: #EDDFB3
+}
+.container3-content{
+    padding: 5% 5%;
+}
+.footer{
+    padding: 0 5%;
+}
